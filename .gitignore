@@ -23,3 +23,5 @@ lib/bs
 *.mliast
 .vscode
 node_modules
+.merlin
+lib/

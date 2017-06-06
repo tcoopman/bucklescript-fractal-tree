@@ -4,8 +4,7 @@
   "sources": [
     "src"
   ],
-  "reason" : { "react-jsx" : true},
-  "bs-dependencies" : [
-      // add your bs-dependencies here 
-  ]
+  "package-specs": ["es6"],
+  "generate-merlin": true,
+  "bsc-flags": [ "-no-alias-deps", "-color", "always", "-w", "-40+6+7+27+32..39+44+45", "-w @8"]
 }

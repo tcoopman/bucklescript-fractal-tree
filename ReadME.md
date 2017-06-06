@@ -2,6 +2,8 @@
 # Initialized with
 ```
 bsb -init bucklescript-fractal-tree
+cd bucklescript-fractal-tree
+npm install
 ```
 
 # Build
